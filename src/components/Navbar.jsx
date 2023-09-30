@@ -24,7 +24,7 @@ export const Navbar = () => {
     >
       <Link to='/' className='text-white text-3xl font-bold hover:scale-150 transition-all duration-500'>
         <h1>
-          Preguntas
+          Preguntass
         </h1>
       </Link>
 
